@@ -1,7 +1,7 @@
-# Tamara Cvjetkovic
+Tamara Cvjetkovic
 
 
-EdgeRank
+# EdgeRank
 
 
 # Name of the project
