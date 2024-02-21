@@ -16,7 +16,7 @@ EdgeRank: simulator of algorithm EdgeRank
 - ACADEMIC DEGREE: Bachelor with Honours in Software Engineering
 
 - CONTACT: c.tamara02@gmail.com || cvjetkovic.sv48.2022@uns.ac.rs
-- PHONE: +381 65 4468 114 (Serbia) || +387 66 868 639 (BiH)
+- PHONE: +38165 4468 114 (Serbia) || +38766 868 639 (BiH)
 
 
 # Project description
@@ -24,6 +24,12 @@ Project from subject named "Algorithms and Data Structures"
 FTN SIIT, 2nd semester, Novi Sad, 2023.
 
 EdgeRank is a console application in Python simulating the EdgeRank algorithm developed by Facebook, which calculates the score for all posts depending on the currently logged-in user. Trie structure was utilized for optimized searching, serialization, and deserialization, enhancing efficiency in post retrieval and display. *The data was not commited (>150MB)
+
+
+# Visual design:
+![Screenshot](screenshot1.png)
+![Screenshot](screenshot2.png)
+![Screenshot](screenshot3.png)
 
 
 # For the development of the application, the following tools were utilized:
@@ -45,7 +51,4 @@ After logging in with name and surname, of the person, their feed will show up o
 3) autocomplete - this action doesn't return posts, but autocompleted words that are popular (e.g. "wi*" will return "will, with, win..." depending on the popularity of the words)
 
 
-# Visual design:
-![Screenshot](screenshot1.png)
-![Screenshot](screenshot2.png)
-![Screenshot](screenshot3.png)
+
