@@ -1,4 +1,4 @@
-# AUTHOR: Tamara Cvjetković
+AUTHOR: Tamara Cvjetković
 # . . . . . . . . . . . . . . . . . . 
 
 # Name of the project
