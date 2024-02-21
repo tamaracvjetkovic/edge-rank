@@ -1,9 +1,6 @@
 Tamara Cvjetkovic
 
 
-# EdgeRank
-
-
 # Name of the project
 EdgeRank: simulator of algorithm EdgeRank
 
