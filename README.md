@@ -3,7 +3,7 @@ AUTHOR: Tamara Cvjetković
 
 # Name of the project
 EdgeRank: simulator of algorithm EdgeRank
-
+# 
 
 # INFORMATIONS ABOUT THE AUTHOR
 - NAME: Tamara Cvjetković
@@ -14,7 +14,7 @@ EdgeRank: simulator of algorithm EdgeRank
 
 - CONTACT: c.tamara02@gmail.com || cvjetkovic.sv48.2022@uns.ac.rs
 - PHONE: +38165 4468 114 (Serbia) || +38766 868 639 (BiH)
-
+# 
 
 # Project description
 Project from subject named "Algorithms and Data Structures"
