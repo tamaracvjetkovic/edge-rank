@@ -13,7 +13,7 @@ EdgeRank: simulator of algorithm EdgeRank
 - FACULTY: Faculty of Technical Science, Novi Sad
 - STUDIES: Software Engineering and Information Technologies 
 - ACADEMIC DEGREE: Bachelor with Honours in Software Engineering
-# 
+- 
 - CONTACT: c.tamara02@gmail.com || cvjetkovic.sv48.2022@uns.ac.rs
 - PHONE: +38165 4468 114 (Serbia) || +38766 868 639 (BiH)
 # 
