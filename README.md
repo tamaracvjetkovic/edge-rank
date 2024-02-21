@@ -1,4 +1,4 @@
-# Tamara Cvjetkovic
+AUTHOR: Tamara Cvjetković
 # .
 # .
 
@@ -6,7 +6,7 @@
 EdgeRank: simulator of algorithm EdgeRank
 
 
-# INFORMATIONS ABOUT THE STUDENT
+# INFORMATIONS ABOUT THE AUTHOR
 - NAME: Tamara Cvjetković
 - STUDENT INDEX: sv48-2022
 - FACULTY: Faculty of Technical Science, Novi Sad
@@ -24,14 +24,14 @@ FTN SIIT, 2nd semester, Novi Sad, 2023.
 EdgeRank is a console application in Python simulating the EdgeRank algorithm developed by Facebook, which calculates the score for all posts depending on the currently logged-in user. Trie structure was utilized for optimized searching, serialization, and deserialization, enhancing efficiency in post retrieval and display. *The data was not commited (>150MB)
 
 
+# For the development of the application, the following tools were utilized:
+- Python
+
+
 # Visual design:
 ![Screenshot](screenshot1.png)
 ![Screenshot](screenshot2.png)
 ![Screenshot](screenshot3.png)
-
-
-# For the development of the application, the following tools were utilized:
-- Python
 
 
 # Functionalities:
